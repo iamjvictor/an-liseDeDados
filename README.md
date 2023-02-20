@@ -19,7 +19,7 @@
 
 
 
-> Para mais Informações, ler o [ RELATORIO ](Campeonato Brasileiro.pdf)
+> Para mais Informações, ler o [ RELATORIO ](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 ### Ajustes e melhorias
 
