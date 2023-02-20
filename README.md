@@ -19,7 +19,7 @@
 
 
 
-> Para mais Informações, ler o [relátorio](Campeonato Brasileiro.pdf)
+> Para mais Informações, ler o [RELÁTORIO](Campeonato Brasileiro.pdf)
 
 ### Ajustes e melhorias
 
