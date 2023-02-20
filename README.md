@@ -12,7 +12,12 @@
     <img width="30%" src="grafico.png">
     
 </p>
+
+
 > Este projeto referente ao estudo sobre sistemas inteligentes, tem como objetivo a análise de dados utilizando a linguagem R. No estudo em questão fiz uma pesquisa sobre o aproveitamento sobre os times do Campeonato Brasileiro, onde se fala muito sobre o os mandantes terem uma certa vantagem sobre os visitantes, já que jogam em casa com sua torcida. E selecionamos o caso do Brasileirão de 2020, onde o time mandante jogou sem torcida devido a pandemia do Covid-19.
+
+
+
 
 > Para mais Informações, ler o [relátorio](Campeonato Brasileiro.pdf)
 
@@ -37,7 +42,3 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```
 
-
-#� �a�n�a�l�i�s�e�D�e�D�a�d�o�s�
-�
-�
